@@ -204,103 +204,87 @@ Smart Contract Link -
 
 Site link - https://www.trongoogol.io/en <br>
 Smart Contract Link - 
-Tron Googol - https://tronscan.org/#/contract/TY1Hezj15hKRka9sR9BZ1Bf39dFZs2od7Z/code
+- Tron Googol - https://tronscan.org/#/contract/TY1Hezj15hKRka9sR9BZ1Bf39dFZs2od7Z/code
 
 #### Tron Bank Digital 
 
 Site link - http://tronbank.digital/ <br>
 Smart Contract Link - 
-TronBankDigital -  https://tronscan.org/#/contract/TLk3UsXwWEAEhBLQbWEgFTEk4wejPtxRkQ
+- TronBankDigital -  https://tronscan.org/#/contract/TLk3UsXwWEAEhBLQbWEgFTEk4wejPtxRkQ
 
 #### AndeSwap 
 
 Site link - https://andeswap.osiztechnologies.in/swap <br>
 Smart Contract Link - 
-Router - https://testnet.bscscan.com/address/0xe2703EAdc00C582793273eCC4078Dbc0Fc0D736D
-Factory - https://testnet.bscscan.com/address/0x291cc2Cc57d45B448Cef4afE23Fe58E839492fAf
-Token - https://ropsten.etherscan.io/address/0x2510a9bceabe3969f0b7cd9284e2f7215304352a#code 
+- Router - https://testnet.bscscan.com/address/0xe2703EAdc00C582793273eCC4078Dbc0Fc0D736D
+- Factory - https://testnet.bscscan.com/address/0x291cc2Cc57d45B448Cef4afE23Fe58E839492fAf
+- Token - https://ropsten.etherscan.io/address/0x2510a9bceabe3969f0b7cd9284e2f7215304352a#code 
 
 #### Kapiton DeFi Wallet 
 
 Smart Contract Link - 
-Masterchef - https://etherscan.io/address/0x431a7fb67dec364c4d083c26e716bbd371ea1348#code
-Kapiton - https://etherscan.io/address/0xBCE5D80D66BfFFfeb061aE8954FC113146eb1aaB#code
+- Masterchef - https://etherscan.io/address/0x431a7fb67dec364c4d083c26e716bbd371ea1348#code
+- Kapiton - https://etherscan.io/address/0xBCE5D80D66BfFFfeb061aE8954FC113146eb1aaB#code
 
 #### Tronator 
 
 Smart Contract Link - 
-Tronator - https://shasta.tronscan.org/#/contract/TWNS5nLSgii4tvcFQebkHnY3yMSXdWjh12/code
+- Tronator - https://shasta.tronscan.org/#/contract/TWNS5nLSgii4tvcFQebkHnY3yMSXdWjh12/code
 
 #### InfinityMLM 
 
 Smart Contract Link - 
-InfinityMLM(BSC)-https://testnet.bscscan.com/address/0xde853f0293c68bd06ad622b96fd1c01c6b1f750b
-InfinityMLM(Tron) - https://shasta.tronscan.org/#/contract/TSxoMFSqBZWA9jck7njkP6E6kQ1Zpct12S
+- InfinityMLM(BSC)-https://testnet.bscscan.com/address/0xde853f0293c68bd06ad622b96fd1c01c6b1f750b
+- InfinityMLM(Tron) - https://shasta.tronscan.org/#/contract/TSxoMFSqBZWA9jck7njkP6E6kQ1Zpct12S
 
 
 #### Morx (Aave V2 Clone) 
 
 Site link - http://aaveclone.osiztechnologies.in <br>
 Smart Contract Link -
-LendingPoolAddressesProvider-          
-https://ropsten.etherscan.io/address/0x7BD93aB3AefB95527e60E2cCB255B1b80A1C5ccD#code
-LendingPool :- 
-  	https://ropsten.etherscan.io/address/0xc97a69a9b217c9094970c22169fe9c18c204bdd2#code 
-LendingPoolCollateralManager :- 
-  	https://ropsten.etherscan.io/address/0x600e17ae9fe9d1d1b6821d0e6c78ad3b81d01ca9#code
-LendingPoolConfigurator :- 
-  	https://ropsten.etherscan.io/address/0xe2b9E6CEd1A5F5fF7fFA56Ae8Ae45F3E5D0613d4
-LendingRateOracle :- 
-  	https://ropsten.etherscan.io/address/0x95f2db97c0ae55b8a607686e0b4dca247647a99d#code
-ProtocolDataProvider :-   	
-https://ropsten.etherscan.io/address/0x653aD8b6aA10eD5b35B7ea80A3bA57ce00Ca811c
-WETHGateway :-   	
-https://ropsten.etherscan.io/address/0xF0A00280D17dB354796d44cd33945FeBabE422Ad
-
-AaveCollector :-  	
-https://ropsten.etherscan.io/address/0xf4E098057D0A9faB43714D70685d66922d238D74
-Pool Admin :- 0x36Ee7371c5D0FA379428321b9d531a1cf0a5cAE6
+- LendingPoolAddressesProvider - https://ropsten.etherscan.io/address/0x7BD93aB3AefB95527e60E2cCB255B1b80A1C5ccD#code
+- LendingPool - https://ropsten.etherscan.io/address/0xc97a69a9b217c9094970c22169fe9c18c204bdd2#code 
+- LendingPoolCollateralManager :-https://ropsten.etherscan.io/address/0x600e17ae9fe9d1d1b6821d0e6c78ad3b81d01ca9#code
+- LendingPoolConfigurator :- https://ropsten.etherscan.io/address/0xe2b9E6CEd1A5F5fF7fFA56Ae8Ae45F3E5D0613d4
+- LendingRateOracle :-https://ropsten.etherscan.io/address/0x95f2db97c0ae55b8a607686e0b4dca247647a99d#code
+- ProtocolDataProvider :- https://ropsten.etherscan.io/address/0x653aD8b6aA10eD5b35B7ea80A3bA57ce00Ca811c
+- WETHGateway :- https://ropsten.etherscan.io/address/0xF0A00280D17dB354796d44cd33945FeBabE422Ad
+- AaveCollector :- https://ropsten.etherscan.io/address/0xf4E098057D0A9faB43714D70685d66922d238D74
+- Pool Admin :- 0x36Ee7371c5D0FA379428321b9d531a1cf0a5cAE6
 
 AMM Contracts -
-LendingPoolAddressesProvider :- 
-  	https://ropsten.etherscan.io/address/0x8411c382361294f1473616bC20c8ab4D6f24ca35#code
-LendingPool :- 
-  	https://ropsten.etherscan.io/address/0x23c8691232dea7652f35ba88bdc73dd5c5fb847f#code
- LendingPoolCollateralManager :-  	
-https://ropsten.etherscan.io/address/0xd2FC337CD1E32D60BaBE597220dcdabAFE075b6F
-LendingPoolConfigurator :- 
-  	https://ropsten.etherscan.io/address/0x3865b7bc6167d36abe35693daf0471030ec439bd#code
-LendingRateOracle :- 
-  	https://ropsten.etherscan.io/address/0x95f2db97c0ae55b8a607686e0b4dca247647a99d#code
-ProtocolDataProvider :-   	
-https://ropsten.etherscan.io/address/0x70443083b9fE13827F700b4a14196AE06D7242A3
-WETHGateway - 
-https://ropsten.etherscan.io/address/0xF0A00280D17dB354796d44cd33945FeBabE422Ad
-AaveCollector -https://ropsten.etherscan.io/address/0xf4E098057D0A9faB43714D70685d66922d238D74
-Pool Admin :- 0x36Ee7371c5D0FA379428321b9d531a1cf0a5cAE6
+- LendingPoolAddressesProvider :-https://ropsten.etherscan.io/address/0x8411c382361294f1473616bC20c8ab4D6f24ca35#code
+- LendingPool :- https://ropsten.etherscan.io/address/0x23c8691232dea7652f35ba88bdc73dd5c5fb847f#code
+ - LendingPoolCollateralManager :-https://ropsten.etherscan.io/address/0xd2FC337CD1E32D60BaBE597220dcdabAFE075b6F
+- LendingPoolConfigurator :- https://ropsten.etherscan.io/address/0x3865b7bc6167d36abe35693daf0471030ec439bd#code
+- LendingRateOracle :-https://ropsten.etherscan.io/address/0x95f2db97c0ae55b8a607686e0b4dca247647a99d#code
+- ProtocolDataProvider :- https://ropsten.etherscan.io/address/0x70443083b9fE13827F700b4a14196AE06D7242A3
+- WETHGateway -  https://ropsten.etherscan.io/address/0xF0A00280D17dB354796d44cd33945FeBabE422Ad
+- AaveCollector -https://ropsten.etherscan.io/address/0xf4E098057D0A9faB43714D70685d66922d238D74
+- Pool Admin :- 0x36Ee7371c5D0FA379428321b9d531a1cf0a5cAE6
 
 Staking Contracts -
-Stake Contract - https://ropsten.etherscan.io/address/0xFb39dbCa91985b4269aC023c9D175f072E2c71BB
-StakedToken & RewardToken -   	
+- Stake Contract - https://ropsten.etherscan.io/address/0xFb39dbCa91985b4269aC023c9D175f072E2c71BB
+- StakedToken & RewardToken -   	
 https://ropsten.etherscan.io/address/0x3a257C7Df36C947165A50925d028F46e4532764e
-Emission Manager :- 
+- Emission Manager :- 
   	https://ropsten.etherscan.io/address/0x149b816f5ad3ca618c1597d04854a918f049d069#code
-AaveGovernanceV2 - 
+- AaveGovernanceV2 - 
 https://ropsten.etherscan.io/address/0xdafe574abe698c68bb0d482319090b73c97d72d5
-GovernanceStrategy - 
+- GovernanceStrategy - 
 https://ropsten.etherscan.io/address/0xdf62f27c7bb0ae34087452e6b8e782be3dd410bb#code
-AaveTokenv2 - 	https://ropsten.etherscan.io/address/0x3a257C7Df36C947165A50925d028F46e4532764e
-RewardValut - https://ropsten.etherscan.io/address/0x74Bab1abdCCdFeA611747B63Bf363fb28B974cA4
-Stake Contract - https://ropsten.etherscan.io/address/0xd096f46e95378a1526868d32e0233fb0c6ff8cc4
-StakedToken & RewardToken -   	
+- AaveTokenv2 - 	https://ropsten.etherscan.io/address/0x3a257C7Df36C947165A50925d028F46e4532764e
+- RewardValut - https://ropsten.etherscan.io/address/0x74Bab1abdCCdFeA611747B63Bf363fb28B974cA4
+- Stake Contract - https://ropsten.etherscan.io/address/0xd096f46e95378a1526868d32e0233fb0c6ff8cc4
+- StakedToken & RewardToken -   	
 https://ropsten.etherscan.io/address/0xdb732d3825f7bcc54c0a653a88dc8c6bb45a26a8
-Emission Manager :- 
+- Emission Manager :- 
   	https://ropsten.etherscan.io/address/0x149b816f5ad3ca618c1597d04854a918f049d069#code
-AaveGovernanceV2 :- 
+- AaveGovernanceV2 :- 
   	https://ropsten.etherscan.io/address/0xdafe574abe698c68bb0d482319090b73c97d72d5#code
-GovernanceStrategy -
+- GovernanceStrategy -
 https://ropsten.etherscan.io/address/0xdf62f27c7bb0ae34087452e6b8e782be3dd410bb
-AaveTokenv2 - https://ropsten.etherscan.io/address/0x3a257C7Df36C947165A50925d028F46e4532764e
-RewardValut - https://ropsten.etherscan.io/address/0x74Bab1abdCCdFeA611747B63Bf363fb28B974cA4
+- AaveTokenv2 - https://ropsten.etherscan.io/address/0x3a257C7Df36C947165A50925d028F46e4532764e
+- RewardValut - https://ropsten.etherscan.io/address/0x74Bab1abdCCdFeA611747B63Bf363fb28B974cA4
 
 
