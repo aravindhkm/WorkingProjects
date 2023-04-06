@@ -9,7 +9,7 @@ and other blockchain-based solutions. Explore a world of possibilities with our 
 designed to give you the platform you need to succeed. In this journey so far, I have learned
 a lot of lessons and continually evolved ourselves into becoming a force to reckon.
 
-#### MintySwap
+### MintySwap
 
  Site link - <https://mintyswap.com/> <br>
  Smart Contract Link - 
