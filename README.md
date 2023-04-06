@@ -11,7 +11,7 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 
 #### MintySwap
 
-###### Site link - <https://mintyswap.com/>
+ Site link - <https://mintyswap.com/>
 Smart Contract Link - 
 - NFT Store - <https://etherscan.io/address/0x4c88fc2a06eee34b915000531c62eec676f4f538#code>
 - Exchange - <https://etherscan.io/address/0x919e09eb0ee7bcb0a062f2b249719492d81a0e5b#code>  
