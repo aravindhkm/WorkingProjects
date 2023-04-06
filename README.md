@@ -21,8 +21,7 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 
 Site link - 
 - https://dapple.ai/ <br>
-- https://account.dapple.ai/dapplev2/dashboard/ <br>
-
+- <https://account.dapple.ai/dapplev2/dashboard/> <br>
 Smart Contract Link - 
 - Dapple V2 - https://etherscan.io/address/0x01e097b3c762dcf6f25f27ebfd293d6d7ff6ddaf#code
 - Dapple ETH - https://etherscan.io/address/0xde38c17c1db31fc8b8da33d3edfd21c7ac0ae0b4#code
