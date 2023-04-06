@@ -11,7 +11,7 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 
 #### MintySwap
 
- Site link - (<https://mintyswap.com/>)** <br>
+ Site link - <https://mintyswap.com/> <br>
  Smart Contract Link - 
 - NFT Store - <https://etherscan.io/address/0x4c88fc2a06eee34b915000531c62eec676f4f538#code>
 - Exchange - <https://etherscan.io/address/0x919e09eb0ee7bcb0a062f2b249719492d81a0e5b#code>  
@@ -20,8 +20,8 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 Dapple  
 
 Site link - 
-https://dapple.ai/
-https://account.dapple.ai/dapplev2/dashboard/
+https://dapple.ai/<br>
+https://account.dapple.ai/dapplev2/dashboard/<br>
 Smart Contract Link - 
 Dapple V2 - https://etherscan.io/address/0x01e097b3c762dcf6f25f27ebfd293d6d7ff6ddaf#code
 Dapple ETH - https://etherscan.io/address/0xde38c17c1db31fc8b8da33d3edfd21c7ac0ae0b4#code
@@ -30,7 +30,7 @@ Dapple MANA - https://etherscan.io/address/0xfc7a79b3cb02e27d29cd8f4e77bad50c5bf
  
 Emonsters.finance  
 
-Site link - https://emonster.finance/
+Site link - https://emonster.finance/<br>
 Smart Contract Link - 
 EmonMasterchef - https://bscscan.com/address/0x527ccaFD85b6F91a7d4C4e4B123c72f215A17Fc3#code
 EmonNFT - https://bscscan.com/address/0x41e911ED0dfDF6cDF675883f00bd802ADb2c773A#code
@@ -42,7 +42,7 @@ EmonFlexiblePool: ttps://bscscan.com/address/0x718c90ebB05D01694e29e4b2FF7187870
 
 Metatrondex 
 
-Site link - https://metatrondex.com/
+Site link - https://metatrondex.com/<br>
 
 Smart Contract Link - 
 MetaStake - https://bscscan.com/address/0x633528a865cf7e71c97a60b4ec7cceb86f828e66#code
@@ -52,7 +52,7 @@ Aurea -  https://bscscan.com/address/0x24775BF5A6E3d038C5547E414a3068E892817BEF#
 
 Qube 
 
-Site link - https://theqube.cc/
+Site link - https://theqube.cc/<br>
 
 Smart Contract Link - 
 Qube Token - https://bscscan.com/address/0x3e9d6430144485873248251fCB92bD856E95D1CD#code
@@ -73,7 +73,7 @@ Exchange - https://etherscan.io/address/0xfb0e78dad710f3d56e50612744261f25a86e07
 
 WowMeMarketPlace  
 
-Site link - https://www.wowme.surf/
+Site link - https://www.wowme.surf/<br>
 
 Smart Contract Link - 
 Exchange - ttps://testnet.bscscan.com/address/0xa87b62f79607246a5ffade816dd049cc83325706#code
@@ -81,7 +81,7 @@ NftStore - https://testnet.bscscan.com/address/0xe895fca553f2b87ed244c5c903cc125
 
 MevrDiamond 
 
-Site link - https://mevrdiamond.mevr.app/
+Site link - https://mevrdiamond.mevr.app/<br>
 
 Smart Contract Link - 
 MetaVerseGame - https://bscscan.com/address/0xac522d493ff8e1704c8728dc70c3d898c5579add#code
@@ -89,7 +89,7 @@ METAVERSEVR - https://bscscan.com/address/0xdDe3ed0bB77C1CafABF8B38F9a1E81EdDdC7
 
 Pbex (Pancakeswap clone) 
 
-Site link - https://peerblue.live/
+Site link - https://peerblue.live/<br>
 Smart Contract Link - 
 PBEX Factory - https://bscscan.com/address/0xB5cCcAFAC829c0C401D488b29B7A0469d951A381#code
 PBEX Router - https://bscscan.com/address/0xA2c24Ac72EFC40b6921c11ae0fd75f6642CC9988#code
@@ -109,29 +109,29 @@ PBEX Lottery - https://bscscan.com/address/0x1D666214FDD388db326F354B129eF5FdC4D
 
 Golduck  
 
-Site link - https://golduck.org/
+Site link - https://golduck.org/<br>
 Github Link - 
 https://github.com/golduckdao/golduck-contracts
 
 Fresh Katch  
 
-Site link - https://freshkatch.in/#/
+Site link - https://freshkatch.in/#/<br>
 
 CYOU  
 
-Site link - https://cyou.in/
+Site link - https://cyou.in/<br>
 
 CryptoWalletApi (Opensea Api Clone) 
 
-Site link - https://cryptowalletapi.io/
+Site link - https://cryptowalletapi.io/<br>
 
 Solana Presale POC   
 
-Site link - http://solanapoc.osiztech.com/
+Site link - http://solanapoc.osiztech.com/<br>
 
 Kling 
 
-Site link - https://www.idlemine.io/
+Site link - https://www.idlemine.io/<br>
 Smart Contract Link - 
 Kling Token - https://bscscan.com/address/0xcca166e916088cce10f4fb0fe0c8bb3577bb6e27#code
 KlingTokenDistributor - https://bscscan.com/address/0xa17ea2aa07ec4645c0f12696c1065cdbf1c1f545
