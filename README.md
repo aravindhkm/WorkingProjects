@@ -1,4 +1,4 @@
-# WorkingProjects
+### WorkingProjects
 A collection of my ongoing and completed projects, showcasing my skills in various programming languages and technologies.
 
 I have provided innovative solutions to clientele across the furthest ends of the
@@ -9,7 +9,7 @@ and other blockchain-based solutions. Explore a world of possibilities with our 
 designed to give you the platform you need to succeed. In this journey so far, I have learned
 a lot of lessons and continually evolved ourselves into becoming a force to reckon.
 
-MintySwap
+##MintySwap
 
 Site link - <https://mintyswap.com/>
 Smart Contract Link - 
