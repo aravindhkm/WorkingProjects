@@ -13,18 +13,18 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 
 **Site link** - <https://mintyswap.com/> <br>
 
- Smart Contract Link - 
+ **Smart Contract Link** - 
 - NFT Store - <https://etherscan.io/address/0x4c88fc2a06eee34b915000531c62eec676f4f538#code>
 - Exchange - <https://etherscan.io/address/0x919e09eb0ee7bcb0a062f2b249719492d81a0e5b#code>  
 - MintySwap -<https://etherscan.io/address/0xBbd900e05b4aF2124390D206F70bc4E583B1bE85#code> 
 
 ### Dapple  
 
-Site link - 
+**Site link** - 
 - https://dapple.ai/ <br>
 - <https://account.dapple.ai/dapplev2/dashboard/> <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Dapple V2 - https://etherscan.io/address/0x01e097b3c762dcf6f25f27ebfd293d6d7ff6ddaf#code
 - Dapple ETH - https://etherscan.io/address/0xde38c17c1db31fc8b8da33d3edfd21c7ac0ae0b4#code
 - Dapple USDC - https://etherscan.io/address/0x774607daea5b7fb3522f8e63f62ac5573752f3cc#code
@@ -32,9 +32,9 @@ Smart Contract Link -
  
 ### Emonsters.finance  
 
-Site link - https://emonster.finance/ <br>
+**Site link** - https://emonster.finance/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - EmonMasterchef - https://bscscan.com/address/0x527ccaFD85b6F91a7d4C4e4B123c72f215A17Fc3#code
 - EmonNFT - https://bscscan.com/address/0x41e911ED0dfDF6cDF675883f00bd802ADb2c773A#code
 - EmonPool - https://bscscan.com/address/0x4cF31E44cb68599c479a64095f67b5A4Dc99f332#code
@@ -45,9 +45,9 @@ Smart Contract Link -
 
 ### Metatrondex 
 
-Site link - https://metatrondex.com/ <br>
+**Site link** - https://metatrondex.com/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - MetaStake - https://bscscan.com/address/0x633528a865cf7e71c97a60b4ec7cceb86f828e66#code
 - Metatron -  https://bscscan.com/address/0xc66a7f3bbdb6865d1c9db063ee418c78cb31e1bc
 - Carbit - https://bscscan.com/address/0xb9d000ec47fc71dcf7b603c9650cd90d094a7693
@@ -55,9 +55,9 @@ Smart Contract Link -
 
 ### Qube 
 
-Site link - https://theqube.cc/ <br>
+**Site link** - https://theqube.cc/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Qube Token - https://bscscan.com/address/0x3e9d6430144485873248251fCB92bD856E95D1CD#code
 - LauchpadV1 - https://bscscan.com/address/0x5BC0e8d8418bA437f9BA51C8DD69A310fe767cD3#code
 - LauchpadV2 - https://bscscan.com/address/0x5bc0e8d8418ba437f9ba51c8dd69a310fe767cd3#code
@@ -76,25 +76,25 @@ Smart Contract Link -
 
 ### WowMeMarketPlace  
 
-Site link - https://www.wowme.surf/ <br>
+**Site link** - https://www.wowme.surf/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Exchange - ttps://testnet.bscscan.com/address/0xa87b62f79607246a5ffade816dd049cc83325706#code
 - NftStore - https://testnet.bscscan.com/address/0xe895fca553f2b87ed244c5c903cc12550cd76b05#code
 
 ### MevrDiamond 
 
-Site link - https://mevrdiamond.mevr.app/ <br>
+**Site link** - https://mevrdiamond.mevr.app/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - MetaVerseGame - https://bscscan.com/address/0xac522d493ff8e1704c8728dc70c3d898c5579add#code
 - METAVERSEVR - https://bscscan.com/address/0xdDe3ed0bB77C1CafABF8B38F9a1E81EdDdC7DDc9
 
 ### Pbex (Pancakeswap clone) 
 
-Site link - https://peerblue.live/ <br>
+**Site link** - https://peerblue.live/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - PBEX Factory - https://bscscan.com/address/0xB5cCcAFAC829c0C401D488b29B7A0469d951A381#code
 - PBEX Router - https://bscscan.com/address/0xA2c24Ac72EFC40b6921c11ae0fd75f6642CC9988#code
 - PBEX PoolCentre - https://bscscan.com/address/0x1aD890D388C56DaD4007D6Bd1Ba34F302A07bb6F
@@ -113,49 +113,49 @@ Smart Contract Link -
 
 ### Golduck  
 
-Site link - https://golduck.org/ <br>
+**Site link** - https://golduck.org/ <br>
 
 Github Link - 
 - https://github.com/golduckdao/golduck-contracts
 
 ### Fresh Katch  
 
-Site link - https://freshkatch.in/#/ <br>
+**Site link** - https://freshkatch.in/#/ <br>
 
 ### CYOU  
 
-Site link - https://cyou.in/ <br>
+**Site link** - https://cyou.in/ <br>
 
 ### CryptoWalletApi (Opensea Api Clone) 
 
-Site link - https://cryptowalletapi.io/ <br>
+**Site link** - https://cryptowalletapi.io/ <br>
 
 ### Solana Presale POC   
 
-Site link - http://solanapoc.osiztech.com/ <br>
+**Site link** - http://solanapoc.osiztech.com/ <br>
 
 ### Kling 
 
-Site link - https://www.idlemine.io/ <br>
+**Site link** - https://www.idlemine.io/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Kling Token - https://bscscan.com/address/0xcca166e916088cce10f4fb0fe0c8bb3577bb6e27#code
 - KlingTokenDistributor - https://bscscan.com/address/0xa17ea2aa07ec4645c0f12696c1065cdbf1c1f545
 
 ### Cointool Clone 
 
-Site link - https://cointool.osiztech.com/ <br>
+**Site link** - https://cointool.osiztech.com/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - PresaleFactory - https://bscscan.com/address/0xba1a9613294f8913ebd14847fca964bf0f909d73#code
 - TokenLock - https://bscscan.com/address/0x89f37a3067cca4034dc753fa915ee059e8bacd32#code
 - Multicall - https://bscscan.com/address/0x9e15d858aacaef7031d3d9b2e6e07312adcb8182#code
 
 ### Synthesis bank 
 
-Site link - http://synthesis.osiztech.com/ <br>
+**Site link** - http://synthesis.osiztech.com/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - MasterChef - https://etherscan.io/address/0xcb7eff2a4b28b604acebb6d0cd2bf349836fc4cf#code
 - SynthesisBank - https://etherscan.io/address/0xfe4c8160ef4dcee3911e8f40770b4655ed70b217#code
 - SynthesisStaking - https://etherscan.io/address/0x48d199cb3a7190fc25c0347c13d9afa658fae1c0#code
@@ -166,18 +166,18 @@ Smart Contract Link -
 
 ### DHorse 
 
-Site link - https://dhorse.io/ <br>
+**Site link** - https://dhorse.io/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - DHorse Core - https://bscscan.com/address/0xFe3eD5d8a9A75268Ae05674e962Dd3B94a903aBC#code
 - DHorse Race - https://bscscan.com/address/0x2d475502C0D2fAc74631d61196B7b55650a3D2c6#code
 - Exchange - https://bscscan.com/address/0x9D984CceB827fd224be5BF3d2C2F680543FbC1ed#code
 
 ### IngressDefi 
 
-Site link - http://www.ingressdefi.com/ <br>
+**Site link** - http://www.ingressdefi.com/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Syrup Bar - https://bscscan.com/address/0x006AAb69dD33C4Ed6570b6a273A05bd73b7f941A#code
 - Router - https://bscscan.com/address/0xf4D8C9436E2fC980A6ce181829Bd6D61524b9839#code
 - Factory - https://bscscan.com/address/0x8DBc0893bdA06Be0ac81a13992DFC94De43DeacB#code
@@ -187,17 +187,17 @@ Smart Contract Link -
 
 ### Inhousegames 
 
-Site link - http://inhousegames.spartangaming.io/ <br>
+**Site link** - http://inhousegames.spartangaming.io/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Game Contract : https://bscscan.com/address/0x0a8a99BB592036C6EcA79a28561a1049070CdEbC#code
 
 
 ### Animeswap 
 
-Site link - https://animetoken.me/ <br>
+**Site link** - https://animetoken.me/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Factory :  https://bscscan.com/address/0xDB2Df590466901019BB63Ba4F750378569450988#code
 - Router:  https://bscscan.com/address/0x99A3f16475B73caD9c30c45416c7bdBB0C35f2E3#code
 - Hentai : https://bscscan.com/address/0xced986aF3e17b27775952Bd920f7395B00dcD294
@@ -207,57 +207,57 @@ Smart Contract Link -
 
 ### GoldenTron 
 
-Site link - https://www.absgoldentron.io/en/basic <br>
+**Site link** - https://www.absgoldentron.io/en/basic <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Goldentron - https://tronscan.org/#/contract/TGN5zefmjg221TesGfohPjHvD1k3gBwofa/code
 
 ### Tron Googol  
 
-Site link - https://www.trongoogol.io/en <br>
+**Site link** - https://www.trongoogol.io/en <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Tron Googol - https://tronscan.org/#/contract/TY1Hezj15hKRka9sR9BZ1Bf39dFZs2od7Z/code
 
 ### Tron Bank Digital 
 
-Site link - http://tronbank.digital/ <br>
+**Site link** - http://tronbank.digital/ <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - TronBankDigital -  https://tronscan.org/#/contract/TLk3UsXwWEAEhBLQbWEgFTEk4wejPtxRkQ
 
 ### AndeSwap 
 
-Site link - https://andeswap.osiztechnologies.in/swap <br>
+**Site link** - https://andeswap.osiztechnologies.in/swap <br>
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Router - https://testnet.bscscan.com/address/0xe2703EAdc00C582793273eCC4078Dbc0Fc0D736D
 - Factory - https://testnet.bscscan.com/address/0x291cc2Cc57d45B448Cef4afE23Fe58E839492fAf
 - Token - https://ropsten.etherscan.io/address/0x2510a9bceabe3969f0b7cd9284e2f7215304352a#code 
 
 ### Kapiton DeFi Wallet 
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Masterchef - https://etherscan.io/address/0x431a7fb67dec364c4d083c26e716bbd371ea1348#code
 - Kapiton - https://etherscan.io/address/0xBCE5D80D66BfFFfeb061aE8954FC113146eb1aaB#code
 
 ### Tronator 
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - Tronator - https://shasta.tronscan.org/#/contract/TWNS5nLSgii4tvcFQebkHnY3yMSXdWjh12/code
 
 ### InfinityMLM 
 
-Smart Contract Link - 
+**Smart Contract Link** - 
 - InfinityMLM(BSC)-https://testnet.bscscan.com/address/0xde853f0293c68bd06ad622b96fd1c01c6b1f750b
 - InfinityMLM(Tron) - https://shasta.tronscan.org/#/contract/TSxoMFSqBZWA9jck7njkP6E6kQ1Zpct12S
 
 
 ### Morx (Aave V2 Clone) 
 
-Site link - http://aaveclone.osiztechnologies.in <br>
+**Site link** - http://aaveclone.osiztechnologies.in <br>
 
-Smart Contract Link -
+**Smart Contract Link** -
 - LendingPoolAddressesProvider - https://ropsten.etherscan.io/address/0x7BD93aB3AefB95527e60E2cCB255B1b80A1C5ccD#code
 - LendingPool - https://ropsten.etherscan.io/address/0xc97a69a9b217c9094970c22169fe9c18c204bdd2#code 
 - LendingPoolCollateralManager :-https://ropsten.etherscan.io/address/0x600e17ae9fe9d1d1b6821d0e6c78ad3b81d01ca9#code
