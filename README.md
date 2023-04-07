@@ -41,7 +41,7 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 - EmonProfile - https://bscscan.com/address/0xF653fd12Df24764Ab7b41f7BD84260B4e678f5dA#code
 - IEmon - https://bscscan.com/address/0x1ae38c0C2C463166392897898DE59ae633C37073#code
 - IFO - https://bscscan.com/address/0xFF158c87310472B34BB6909cDC0E6A188061C346#code
-- EmonFlexiblePool: ttps://bscscan.com/address/0x718c90ebB05D01694e29e4b2FF71878705B0b297#code
+- EmonFlexiblePool: https://bscscan.com/address/0x718c90ebB05D01694e29e4b2FF71878705B0b297#code
 
 ### Metatrondex 
 
