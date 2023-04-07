@@ -79,7 +79,7 @@ a lot of lessons and continually evolved ourselves into becoming a force to reck
 **Site link** - https://www.wowme.surf/ <br>
 
 **Smart Contract Link** - 
-- Exchange - ttps://testnet.bscscan.com/address/0xa87b62f79607246a5ffade816dd049cc83325706#code
+- Exchange - https://testnet.bscscan.com/address/0xa87b62f79607246a5ffade816dd049cc83325706#code
 - NftStore - https://testnet.bscscan.com/address/0xe895fca553f2b87ed244c5c903cc12550cd76b05#code
 
 ### MevrDiamond 
